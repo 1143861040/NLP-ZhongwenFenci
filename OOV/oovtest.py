@@ -1,5 +1,5 @@
 # -*- encoding:UTF-8 -*-
-# oovtest.py
+# oovtest.py最大正向匹配
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
